@@ -27,6 +27,8 @@ public class RatingCount implements Serializable {
 	private final long count;
 
 	public RatingCount(Rating rating, long count) {
+
+		hahahha
 		this.rating = rating;
 		this.count = count;
 	}
